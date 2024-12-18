@@ -1,0 +1,4 @@
+﻿  Module1.4Func.cpp
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.4Func.cpp(55,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.4Func.cpp(114,1): warning C4715: BoyerMoore: значение возвращается не при всех путях выполнения
+  Kursach.vcxproj -> C:\Users\Ирина\source\repos\Kursach\x64\Debug\Kursach.exe

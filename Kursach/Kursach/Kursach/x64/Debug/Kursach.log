@@ -1,0 +1,74 @@
+﻿  Kursach.cpp
+  Module1.3.cpp
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,37): error C2065: numeric_limits: необъявленный идентификатор
+  (компиляция исходного файла "Modules/Module1.3.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,52): error C2062: тип "int" не требуется
+  (компиляция исходного файла "Modules/Module1.3.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,5): error C2091: функция возвращает функцию
+  (компиляция исходного файла "Modules/Module1.3.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Modules/Module1.3.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,66): error C2062: тип "int" не требуется
+  (компиляция исходного файла "Modules/Module1.3.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,102): error C2039: "max": не является членом "`global namespace'".
+  (компиляция исходного файла "Modules/Module1.3.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(18,18): error C2660: checkInputPointers: функция не принимает 2 аргументов
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,5):
+       см. объявление "checkInputPointers"
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(18,18):
+      при попытке сопоставить список аргументов "(int, int)"
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(18,36): error C2440: =: невозможно преобразовать "int (__cdecl *)(void)" в "int"
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(18,36):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(63,27): error C2660: checkInputPointers: функция не принимает 2 аргументов
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,5):
+       см. объявление "checkInputPointers"
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(63,27):
+      при попытке сопоставить список аргументов "(int, int)"
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(63,45): error C2440: =: невозможно преобразовать "int (__cdecl *)(void)" в "int"
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(63,45):
+      Не существует контекста, в котором такое преобразование возможно
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(121,23): error C2660: checkInputPointers: функция не принимает 0 аргументов
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,5):
+       см. объявление "checkInputPointers"
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(121,23):
+      при попытке сопоставить список аргументов "()"
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(121,21): error C2440: инициализация: невозможно преобразовать "int (__cdecl *)(void)" в "int"
+      C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3.cpp(121,21):
+      Не существует контекста, в котором такое преобразование возможно
+  
+  Module1.3Func.cpp
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,37): error C2065: numeric_limits: необъявленный идентификатор
+  (компиляция исходного файла "Modules/Module1.3Func.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,52): error C2062: тип "int" не требуется
+  (компиляция исходного файла "Modules/Module1.3Func.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,5): error C2091: функция возвращает функцию
+  (компиляция исходного файла "Modules/Module1.3Func.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  (компиляция исходного файла "Modules/Module1.3Func.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,66): error C2062: тип "int" не требуется
+  (компиляция исходного файла "Modules/Module1.3Func.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.h(8,102): error C2039: "max": не является членом "`global namespace'".
+  (компиляция исходного файла "Modules/Module1.3Func.cpp")
+  
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.cpp(39,13): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.cpp(44,18): warning C4244: /=: преобразование "float" в "int", возможна потеря данных
+C:\Users\Ирина\source\repos\Kursach\Kursach\Modules\Module1.3Func.cpp(329,20): error C3861: checkInput: идентификатор не найден
+  Создание кода...
